@@ -12,4 +12,5 @@ hola soy vladimir
 🤔 necesito ayuda para aprender
 
 📫 how to reach me ... acercandose
+
 ⚡️ Fun fact...me gusta tocar la guitarra
