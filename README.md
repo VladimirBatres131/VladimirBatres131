@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... terminar mi carrera
-- 🌱 I’m currently learning ... como programar
-- 🤔 I’m looking for help with ... mis tareas
-- 💬 Ask me about ... cualquier cosa
-- 📫 How to reach me: ...hablandome
-- ⚡ Fun fact: ... me gusta tocar la guitarra
+#- 🔭 I’m currently working on ... terminar mi carrera
+#- 🌱 I’m currently learning ... como programar
+#- 🤔 I’m looking for help with ... mis tareas
+#- 💬 Ask me about ... cualquier cosa
+#- 📫 How to reach me: ...hablandome
+#- ⚡ Fun fact: ... me gusta tocar la guitarra
 -->
